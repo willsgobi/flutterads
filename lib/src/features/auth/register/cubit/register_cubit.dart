@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:flutter_ads/src/features/auth/register/models/user_registered.dart';
 import 'package:flutter_ads/src/features/auth/register/states/register_states.dart';
 import 'package:flutter_ads/src/features/auth/register/usecases/user_register.dart';
 
