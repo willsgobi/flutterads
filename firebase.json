@@ -1,0 +1,23 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flutter-ads-80f12",
+          "configurations": {
+            "web": "1:299679564998:web:c7b40392f7cceab398c3c7"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "site": "flutteradswilliamsgobi",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
