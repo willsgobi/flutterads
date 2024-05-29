@@ -105,9 +105,9 @@ class _AdsPageState extends State<AdsPage> {
                         : const SizedBox(),
                     Center(
                       child: AdSenseWidget(
-                        adSlot: 'sdsdsdsdsds',
+                        adSlot: 'sdsdsdsd',
                         adFormat: 'auto',
-                        adClient: 'asasasasas',
+                        adClient: 'sdsds',
                         targetingOptions: convertListToTargetingOptions(
                             state.userData!.interests!),
                       ),
